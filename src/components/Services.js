@@ -11,16 +11,13 @@ const Services = () => {
             <h1 className="text-4xl text-yellow-600 font-bold">Services</h1>
           </div>
           <p className="text-center">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Modi
-            beatae et in amet, quo iste unde soluta. Esse, tenetur fugiat
-            sapiente quia nemo officia explicabo ducimus odio, deleniti, natus
-            nihil.
+            I'm Full Stack Developer. I have experience of 4 months in software house. I did work on live projects. My expertise lie on React Js, Javascript, Nodejs, Mongodb.
           </p>
-          <div className="button mt-8 pl-32  ">
+          {/* <div className="button mt-8 pl-32  ">
             <button className="bg-yellow-600 p-2 rounded-sm shadow-3xl text-white">
               Download CV
             </button>
-          </div>
+          </div> */}
         </div>
         {/* <div className="right flex-1">
           <div className="mx-auto">
